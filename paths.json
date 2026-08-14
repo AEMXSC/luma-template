@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/luma-template/language-masters/en:/",
+    "/content/luma-template/language-masters/en/:/en/",
+    "/content/luma-template/language-masters/fr/:/fr/",
+    "/content/luma-template/language-masters/fr:/fr",
+    "/content/luma-template/language-masters/es/:/es/",
+    "/content/luma-template/language-masters/es:/es",
+    "/content/luma-template/language-masters/ja/:/ja/",
+    "/content/luma-template/language-masters/ja:/ja",
+    "/content/luma-template/language-masters/de/:/de/",
+    "/content/luma-template/language-masters/de:/de",
+    "/content/luma-template/configuration:/.helix/config.json",
+    "/content/luma-template/metadata:/metadata.json",
+    "/content/luma-template/redirects:/redirects.json",
+    "/content/luma-template/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/luma-template/",
+    "/content/dam/luma-template/"
   ]
 }
